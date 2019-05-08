@@ -1,5 +1,7 @@
 # adm - Acoustic Directivity Measurement
-This Graphical User Interface ensures acquiring audio signals from mutiple inputs, sending audio signals to multiple outputs while enslaving a turn table via an arduino for faster acoustic directivity measurements. 
+Made for faster acoustic directivity measurements.
+
+This Graphical User Interface ensures the generation and the acquisition of mutiple I/O audio signals while enslaving a turn table via an arduino.
 
 <img src="pictures/ScreenCapture.png">
 
