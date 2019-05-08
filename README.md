@@ -16,5 +16,5 @@ python3 -m pip install -r requirements.txt
 ```
 
 ## About this project
-Created by @Tomaubier and @DumasRaphael for a project first initiated at [Le Mans University](http://www.univ-lemans.fr/fr/index.html).
+Created by [Tom Aubier](https://github.com/Tomaubier) and [Raphaël Dumas](https://github.com/DumasRaphael) for a project first initiated at [Le Mans University](http://www.univ-lemans.fr/fr/index.html).
 
