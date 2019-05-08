@@ -1,5 +1,5 @@
 # adm - Acoustic Directivity Measurement
-Fast acoustic directivity measurements Graphical User Interface. 
+This Graphical User Interface ensures acquiring audio signals from mutiple inputs, sending audio signals to multiple outputs while enslaving a turn table via an arduino for faster acoustic directivity measurements. 
 
 <img src="Pictures/ScreenCapture.png">
 
@@ -12,10 +12,10 @@ python3 -m pip install -r requirements.txt
 ```
 
 
-### Required Hardware
+## Required Hardware
 1. Arduino Uno
 2. Turn Table
 
 ## About this project
-Created by @Tomaubier and @DumasRaphael for a project at Le Mans University.
+Created by @Tomaubier and @DumasRaphael for a project first initiated at [Le Mans University](http://www.univ-lemans.fr/fr/index.html).
 
