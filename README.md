@@ -1,5 +1,5 @@
-# adm - Acoustic Directivity Measurement
-**Made for faster acoustic directivity measurements.**
+# adm - Acoustic Directivity Measures
+**Made for faster acoustic directivity measures.**
 
 This Graphical User Interface ensures the generation and the acquisition of mutiple I/O audio signals while enslaving an electronic turn table via an [Arduino Nano](https://store.arduino.cc/arduino-nano).
 
