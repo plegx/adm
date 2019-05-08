@@ -1,7 +1,7 @@
 # adm - Acoustic Directivity Measurement
 This Graphical User Interface ensures acquiring audio signals from mutiple inputs, sending audio signals to multiple outputs while enslaving a turn table via an arduino for faster acoustic directivity measurements. 
 
-<img src="Pictures/ScreenCapture.png">
+<img src="pictures/ScreenCapture.png">
 
 ## Installation
 Adm runs with Python 3.7 and depends on [PyQt5](https://pypi.org/project/PyQt5/), [pyqtgraph](http://www.pyqtgraph.org/), [numpy](https://www.numpy.org/), [pyaudio](https://pypi.org/project/PyAudio/), [serial](https://pypi.org/project/serial/) and [wave](https://docs.python.org/3/library/wave.html#module-wave). 
