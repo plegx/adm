@@ -1,6 +1,8 @@
 # Acoustic Directivity Measurement
 Fast acoustic directivity measurements Graphical User Interface. 
 
+<img src="ScreenCapture.png">
+
 ## Installation
 acoustic-directivity-measurement-helper runs with Python 3.7.
 
@@ -19,5 +21,3 @@ acoustic-directivity-measurement-helper runs with Python 3.7.
 ## About this project
 Created by @Tomaubier and @DumasRaphael for a project at Le Mans University.
 
-## Screen Capture
-<img src="ScreenCapture.png">
