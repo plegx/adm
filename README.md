@@ -1,3 +1,8 @@
-# acoustic-directivity-measurement-helper
-Fast acoustic directivity measurements GUI
-Created by Tom Aubier and Raphael Dumas
+# Acoustic Directivity Measurement
+Fast acoustic directivity measurements Graphical User Interface created by @github/Tomaubier and @github/DumasRaphael.
+
+
+
+## Required Hardware
+
+## Required Packages
