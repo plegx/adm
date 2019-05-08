@@ -1,18 +1,15 @@
-# Acoustic Directivity Measurement
+# adm - Acoustic Directivity Measurement
 Fast acoustic directivity measurements Graphical User Interface. 
 
 <img src="ScreenCapture.png">
 
 ## Installation
-acoustic-directivity-measurement-helper runs with Python 3.7.
+acoustic-directivity-measurement-helper runs with Python 3.7 with [PyQt5](https://pypi.org/project/PyQt5/) and depends on [pyqtgraph](http://www.pyqtgraph.org/), [numpy](https://www.numpy.org/), [pyaudio](https://pypi.org/project/PyAudio/), [serial](https://pypi.org/project/serial/) and [wave](https://docs.python.org/3/library/wave.html#module-wave). 
+To install the libraries, simply type in a terminal
+'''sh
+python3 -m pip install -r requirements.txt
+'''
 
-### Required Python Libraries
-- [PyQt5](https://pypi.org/project/PyQt5/) 5.12.2 
-- [pyqtgraph](http://www.pyqtgraph.org/) 0.10.0 
-- [numpy](https://www.numpy.org/) 1.15.0 
-- [pyaudio](https://pypi.org/project/PyAudio/) 0.2.11 
-- [serial](https://pypi.org/project/serial/) 0.0.97
-- [wave](https://docs.python.org/3/library/wave.html#module-wave) 0.0.2
 
 ### Required Hardware
 1. Arduino Uno
