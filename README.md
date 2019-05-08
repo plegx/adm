@@ -1,5 +1,5 @@
 # adm - Acoustic Directivity Measurement
-Made for faster acoustic directivity measurements.
+**Made with Python for faster acoustic directivity measurements.**
 
 This Graphical User Interface ensures the generation and the acquisition of mutiple I/O audio signals while enslaving a turn table via an arduino.
 
