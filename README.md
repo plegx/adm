@@ -1,5 +1,5 @@
 # Acoustic Directivity Measurement
-Fast acoustic directivity measurements Graphical User Interface created by @github/Tomaubier and @github/DumasRaphael.
+Fast acoustic directivity measurements Graphical User Interface created by @Tomaubier and @DumasRaphael.
 
 
 
