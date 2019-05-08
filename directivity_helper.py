@@ -3,7 +3,7 @@ from PyQt5 import QtCore, QtGui
 import matplotlib.pyplot as plt
 from PyQt5.QtWidgets import *
 import pyqtgraph as pg
-import raw_ui as raw
+import UI.raw_ui as raw
 import numpy as np
 import pyaudio
 import serial
