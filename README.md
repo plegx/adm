@@ -6,7 +6,7 @@ Fast acoustic directivity measurements Graphical User Interface.
 2. Turn Table
 
 ## Required Packages
-- PyQt5
+- [PyQt5](https://pypi.org/project/PyQt5/)
 - serial
 ...
 
